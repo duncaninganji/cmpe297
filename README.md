@@ -10,8 +10,12 @@ uses two approaches - Haystack extractive QA pipeline and vertex AI to deploy th
 endpoint. The project implementation resulted in an end-to-end production-ready
 pipeline for the Question answering model.
 
+Video Link for Project Walkthrough : https://www.youtube.com/watch?v=KOoG3QEPCRU 
+
 <h3>Team:</h3>
 Duncan Inganji <br>
 Jagruti Mohanty <br>
 Shreya Goyal <br>
 Teepika Ramasamy Marimuthu <br>
+
+
